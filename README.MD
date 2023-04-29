@@ -1,3 +1,5 @@
+api:
+
 1) POST /api/register - регистрация
 2) POST /api/login - логин
 3) GET /api/posts/ - список всех постов

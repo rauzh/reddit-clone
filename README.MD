@@ -15,7 +15,7 @@ api:
 13) GET /api/user/{USER_LOGIN} - получение всех постов конкртеного пользователя
 
 запуск на localhost:8091
-'''
+```
 go run redditclone/cmd/redditclone/main.go 
-'''
+```
 
